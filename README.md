@@ -69,3 +69,10 @@ based on sunlight hours, electricity prices, installation costs, and CO2 reducti
 ---
 
 ## 📁 Project Structure
+
+
+---
+
+## 👤 Author
+**Vathsala Sivapalan**  
+[GitHub](https://github.com/vathsalasivapalan)
